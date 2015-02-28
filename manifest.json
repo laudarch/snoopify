@@ -3,7 +3,7 @@
 
   "name": "Snoopify",
   "description": "This extension snoopifies your web experience.",
-  "version": "4.20",
+  "version": "4.21",
 
   "browser_action": {
     "default_icon": {"38": "icon.png"},
